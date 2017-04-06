@@ -1,5 +1,5 @@
 title = "solution = problem |> cthree"
-baseURL = "https://pages.github.io/cthree"
+baseURL = "https://cthree.github.io/blog/"
 languageCode = "en-us"
 paginate = 5
 publishDir = "docs"

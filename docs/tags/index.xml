@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>solution = problem |&gt; cthree</title>
-    <link>https://pages.github.io/cthree/tags/index.xml</link>
+    <link>https://cthree.github.io/blog/tags/index.xml</link>
     <description>Recent content on solution = problem |&gt; cthree</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://pages.github.io/cthree/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cthree.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hellow World!</title>
-      <link>https://pages.github.io/cthree/post/welcome/</link>
+      <link>https://cthree.github.io/blog/post/welcome/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://pages.github.io/cthree/post/welcome/</guid>
+      <guid>https://cthree.github.io/blog/post/welcome/</guid>
       <description>
 
 &lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Hellow World!</title>
-      <link>https://pages.github.io/cthree/post/welcome/</link>
+      <link>https://cthree.github.io/blog/post/welcome/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://pages.github.io/cthree/post/welcome/</guid>
+      <guid>https://cthree.github.io/blog/post/welcome/</guid>
       <description>
 
 &lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
