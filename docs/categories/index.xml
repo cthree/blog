@@ -9,16 +9,12 @@
     <atom:link href="https://cthree.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hellow World!</title>
+      <title>Hello World!</title>
       <link>https://cthree.github.io/blog/post/welcome/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://cthree.github.io/blog/post/welcome/</guid>
-      <description>
-
-&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
-
-&lt;p&gt;Welcome to my blog for posting my thoughts, projects and learnings about software development, systems design, embedded devices, technologies and industry trends. I&amp;rsquo;m generating this blog using &lt;a href=&#34;http://gohugo.io&#34;&gt;HUGO&lt;/a&gt; on &lt;a href=&#34;https://pages.github.io&#34;&gt;Github Pages&lt;/a&gt; out of a &lt;a href=&#34;https://github.com/cthree/cthree-blog&#34;&gt;git repository&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to my blog for posting my thoughts, projects and learnings about software development, systems design, embedded devices, technologies and industry trends. I&amp;rsquo;m generating this blog using &lt;a href=&#34;http://gohugo.io&#34;&gt;HUGO&lt;/a&gt; on &lt;a href=&#34;https://pages.github.io&#34;&gt;Github Pages&lt;/a&gt; out of a &lt;a href=&#34;https://github.com/cthree/cthree-blog&#34;&gt;git repository&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I think my first post will be about setting this blog. Watch for it!&lt;/p&gt;
 </description>
